@@ -25,7 +25,7 @@ GITHUB_USERNAME = envv2.GITHUB_USERNAME
 
 
 if(process.env.SESSION_ID){
-SESSION_ID = process.env.SESSION_ID || "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=ymYjCY7R#E8Mx9G65Jz1NZTa4ZivRdbHV32MxF7VEgiKTzteNje4",
+SESSION_ID = process.env.SESSION_ID || "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=njJ0zJiB#qHdHYCJTmLyEZ5uHFgsXqhGc9VwOUN2V_wjTkLNST4I",
 } else {
 SESSION_ID = envv2.SESSION_ID
 }
@@ -34,5 +34,5 @@ module.exports = {
 SESSION_ID,
 GITHUB_USERNAME,
 GITHUB_AUTH_TOKEN,
-MONGODB: process.env.MONGODB || "mongodb+srv://myrender971:iwS8N2qB3Q8wMw83@cluster0.he9fd.mongodb.net/"    
+MONGODB: process.env.MONGODB || "mongodb+srv://drdrenj:9NeilFYcA3B5WdNg@setro.ilmqj.mongodb.net/?retryWrites=true&w=majority&appName=setro"    
 };
