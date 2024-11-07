@@ -20,9 +20,9 @@ jobs:
         node-version: [20.x]
 
     env:
-      SESSION_ID: Enter Your SESSION_ID
-      GITHUB_AUTH_TOKEN: Enter Your GITHUB_AUTH_TOKEN
-      GITHUB_USERNAME : Enter your GITHUB_USERNAME
+      SESSION_ID: 𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=nnJVSQRZ#hbWx2KS-PovrM4cbrxwkOf2o0irxowwPqltpQCV_uew
+      GITHUB_AUTH_TOKEN: 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
+      GITHUB_USERNAME : PETER-KIBARA
 
     steps:
     - name: Checkout repository
